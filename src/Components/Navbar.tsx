@@ -2,7 +2,7 @@ import React from "react";
 import MaxWidthWrapper from "./MaxWidthWrapper";
 import Link from "next/link";
 import { buttonVariants } from "./ui/button";
-import { LoginLink, RegisterLink } from "@kinde-oss/kinde-auth-nextjs/server";
+import { LoginLink, RegisterLink } from "@kinde-oss/kinde-auth-nextjs/server";;
 import { ArrowRight } from "lucide-react";
 const Navbar = () => {
   return (
